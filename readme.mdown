@@ -3,6 +3,7 @@
 PSDQuizController is a simple UIViewController type class for implementing a quiz easily in iOS implementation. The data of the quiz can be easily added and modified by a .plist file. 
 PSDQuizController, provides 4 possible answers for every question of the quiz but you can change it to whatever number you want (with a custom way).
 PSDQuizController also picks the questions randomly from a list, so that different questions will be displayed, every time that the user plays the quiz. 
+
 <img src="http://www.anadelta.gr/psdapps/PSDQuizscr.png" width="320" height="567"/>
 
 #How to use PSDQuizController#
