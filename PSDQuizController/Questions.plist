@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>Rank</key>
+		<integer>1</integer>
+		<key>Question</key>
+		<string>What is the only fruit to have seeds on the outside?</string>
+		<key>Answer A</key>
+		<string>Strawberry</string>
+		<key>Answer B</key>
+		<string>Pinapple</string>
+		<key>Answer C</key>
+		<string>Banana</string>
+		<key>Answer D</key>
+		<string>Watermelon</string>
+		<key>RightAnswer</key>
+		<string>A</string>
+	</dict>
+	<dict>
+		<key>Rank</key>
+		<integer>2</integer>
+		<key>Question</key>
+		<string>Into how many languages has &quot;The Diary Of Anne Frank&quot; been translated?</string>
+		<key>Answer A</key>
+		<string>30</string>
+		<key>Answer B</key>
+		<string>55</string>
+		<key>Answer C</key>
+		<string>48</string>
+		<key>Answer D</key>
+		<string>20</string>
+		<key>RightAnswer</key>
+		<string>B</string>
+	</dict>
+	<dict>
+		<key>Rank</key>
+		<integer>3</integer>
+		<key>Question</key>
+		<string>Who discovered the law of gravity?</string>
+		<key>Answer A</key>
+		<string>Albert Einstein</string>
+		<key>Answer B</key>
+		<string>Alfred Nobel</string>
+		<key>Answer C</key>
+		<string>Sir Isaac Newton</string>
+		<key>Answer D</key>
+		<string>George Ohm</string>
+		<key>RightAnswer</key>
+		<string>C</string>
+	</dict>
+	<dict>
+		<key>Rank</key>
+		<integer>4</integer>
+		<key>Question</key>
+		<string>What is the main ingredient of Guacamole</string>
+		<key>Answer A</key>
+		<string>Apple</string>
+		<key>Answer B</key>
+		<string>Pinapple</string>
+		<key>Answer C</key>
+		<string>Orange</string>
+		<key>Answer D</key>
+		<string>Avocado</string>
+		<key>RightAnswer</key>
+		<string>D</string>
+	</dict>
+	<dict>
+		<key>Rank</key>
+		<integer>5</integer>
+		<key>Question</key>
+		<string>What was the name of the first cloned mammal?</string>
+		<key>Answer A</key>
+		<string>Bugs (the rabbit)</string>
+		<key>Answer B</key>
+		<string>Dolly (the sheep)</string>
+		<key>Answer C</key>
+		<string>Jack (the dog)</string>
+		<key>Answer D</key>
+		<string>Caly (the cat)</string>
+		<key>RightAnswer</key>
+		<string>B</string>
+	</dict>
+	<dict>
+		<key>Rank</key>
+		<integer>6</integer>
+		<key>Question</key>
+		<string>Who holds a trumpet on the album cover of &quot;Sgt Pepper&apos;s Lonely Hearts Club Band&quot; by The Beatles?</string>
+		<key>Answer A</key>
+		<string>John Lennon</string>
+		<key>Answer B</key>
+		<string>Paul McCartney</string>
+		<key>Answer C</key>
+		<string>Ringo Starr</string>
+		<key>Answer D</key>
+		<string>George Harisson</string>
+		<key>RightAnswer</key>
+		<string>C</string>
+	</dict>
+	<dict>
+		<key>Rank</key>
+		<integer>7</integer>
+		<key>Question</key>
+		<string>What is the capital city of China?</string>
+		<key>Answer A</key>
+		<string>Shanghai</string>
+		<key>Answer B</key>
+		<string>Wuhan</string>
+		<key>Answer C</key>
+		<string>Tianjin</string>
+		<key>Answer D</key>
+		<string>Beijing</string>
+		<key>RightAnswer</key>
+		<string>D</string>
+	</dict>
+	<dict>
+		<key>Rank</key>
+		<integer>8</integer>
+		<key>Question</key>
+		<string>In 1959, what became the 50th state of the USA?</string>
+		<key>Answer A</key>
+		<string>Nevada</string>
+		<key>Answer B</key>
+		<string>Florida</string>
+		<key>Answer C</key>
+		<string>California</string>
+		<key>Answer D</key>
+		<string>Hawaii</string>
+		<key>RightAnswer</key>
+		<string>D</string>
+	</dict>
+	<dict>
+		<key>Rank</key>
+		<integer>9</integer>
+		<key>Question</key>
+		<string>Which London railway station has the most platforms?</string>
+		<key>Answer A</key>
+		<string>Waterloo</string>
+		<key>Answer B</key>
+		<string>Charing Cross</string>
+		<key>Answer C</key>
+		<string>London Euston</string>
+		<key>Answer D</key>
+		<string>London Victoria</string>
+		<key>RightAnswer</key>
+		<string>A</string>
+	</dict>
+	<dict>
+		<key>Rank</key>
+		<integer>10</integer>
+		<key>Question</key>
+		<string>Which American city was the intended destination for the Titanic on its maiden voyage in 1912?</string>
+		<key>Answer A</key>
+		<string>San Fransisco</string>
+		<key>Answer B</key>
+		<string>New York</string>
+		<key>Answer C</key>
+		<string>Miami</string>
+		<key>Answer D</key>
+		<string>New Orlean</string>
+		<key>RightAnswer</key>
+		<string>B</string>
+	</dict>
+	<dict>
+		<key>Rank</key>
+		<integer>11</integer>
+		<key>Question</key>
+		<string>From what type of stone is the Taj Mahal built?</string>
+		<key>Answer A</key>
+		<string>Limestone</string>
+		<key>Answer B</key>
+		<string>Serpentine</string>
+		<key>Answer C</key>
+		<string>Marble</string>
+		<key>Answer D</key>
+		<string>Granite</string>
+		<key>RightAnswer</key>
+		<string>C</string>
+	</dict>
+</array>
+</plist>
