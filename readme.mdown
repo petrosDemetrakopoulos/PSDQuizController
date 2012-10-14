@@ -33,15 +33,24 @@ The QuestionsOfQuiz value cannot be larger than the AndTotalQuestions value! If 
 
 #PSDQuizController properties#
 questionFrame: The frame of the question text view.
+
 AlabelBackgroundColor: The background color of the label of the first answer (it writes A:).
+
 BlabelBackgroundColor: The background color of the label of the second answer (it writes B:).
+
 ClabelBackgroundColor: The background color of the label of the third answer (it writes C:).
+
 DlabelBackgroundColor: The background color of the label of the fourth answer (it writes D:).
+
 progressLabelBackgroundColor: The background color of the label that writes how many questions the user has answered out of the tottal questions (it is the label on the top of the view).
+
 progressLabelTextColor: The text color of the label that writes how many questions the user has answered out of the tottal questions (it is the label on the top of the view).
+
 resultsLabelTextColor: The text color of the label that presents the percentage of the questions that the user answered correct in the end of the quiz.
+
 resultsLabelBackgroundColor: The background color of the label that presents the percentage of the questions that the user answered correct in the end of the quiz.
 Question: the text view of the question. 
+
 Please set the frame of this text view from the questionFrame property and not from the Question.frame property. If you set it from the Question.fram, it may not work properly.
 
 #License
