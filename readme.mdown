@@ -43,7 +43,7 @@ resultsLabelBackgroundColor: The background color of the label that presents the
 Question: the text view of the question. 
 Please set the frame of this text view from the questionFrame property and not from the Question.frame property. If you set it from the Question.fram, it may not work properly.
 
-#License# 
+#License
 Copyright (c) 2012 Petros Demetrakopoulos
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
