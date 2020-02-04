@@ -6,7 +6,6 @@ PSDQuizController also picks the questions randomly from a list, so that differe
 
 # How to use PSDQuizController
 First of all, you need to fill the Questions.plist file with the questions, a rank, the possible answers of each question and the right answer letter of each question. 
-<img src="http://psdwp.anadelta.gr/wp-content/uploads/2012/10/plist.png" width="10000" height="650"/>
 
 The .plist file must have the structure and the hierarchy as shown in the image above. You can add as many entries as you want.
 After you fill the Questions.plist file, you must add the Questions.plist file to the Copy Bundle Resources group from the Target menu > Build phases
